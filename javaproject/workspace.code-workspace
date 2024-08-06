@@ -1,0 +1,12 @@
+{
+	"folders": [],
+	"settings": {
+		"code-runner.runInTerminal": true,
+		"code-runner.saveAllFilesBeforeRun": true,
+		"code-runner.saveFileBeforeRun": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
